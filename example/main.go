@@ -6,7 +6,7 @@ import (
 
 	"go.uber.org/zap"
 
-	log "github.com/AtrisDigital/we-log"
+	log "github.com/grupo-sbf/we-log"
 )
 
 var (

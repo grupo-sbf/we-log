@@ -13,7 +13,7 @@ Just import the package, init the logger and start using.
 package main
 
 import (
-	log "github.com/AtrisDigital/we-log"
+	log "github.com/grupo-sbf/we-log"
 )
 
 func main() {
