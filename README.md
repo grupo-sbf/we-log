@@ -17,7 +17,7 @@ import (
 )
 
 func main() {
-	log.InitLog()
+	log.Init()
 	
 	log.Log.Info("Test INFO")
 	log.Log.Debug("Test DEBUG")
